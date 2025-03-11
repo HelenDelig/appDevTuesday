@@ -65,5 +65,6 @@ public class week5 {
         Manuel.display();
         Villon.display();
         DeVera.display();
+        Delig.display();
     }
 }
